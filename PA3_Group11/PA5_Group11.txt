@@ -1,0 +1,5 @@
+(A) Total amount of numbers in the file: 200
+(B-I) Maximum value in the file: 1000
+(B-II) Minimum value in the file: 7
+(C) Sum of all numbers in the file: 105527
+(D) Average of all numbers in the file: 527.635
